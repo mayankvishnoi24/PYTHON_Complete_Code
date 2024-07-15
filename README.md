@@ -66,3 +66,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 Whenever you are done in the python command line, you can simply type the following to quit the python command line interface:
 
 > exit()
+
+# Python Syntax
+Execute Python Syntax
+As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
+
+>>> print("Hello, World!")
+> Hello, World!
