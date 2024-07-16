@@ -1,0 +1,70 @@
+                                   Python Batch (11:00 A.M.)
+                              ---------------------------------
+
+Programming Language 
+Set of instruction
+
+                                             PL
+                                  user -------------- Machine
+------------------------------------------------------------------------------------------
+                             (0,1)-Binary digits(0-offset,1-onset)
+
+
+Programming Language : c,c++,java,python,c#,ruby,nodejs,matlab...etc.
+--------------------
+
+low level : assembly
+mid level : c , c++
+high level : Java,Ruby,python,nodejs......etc..
+
+--------------------------------------------------------------------------------
+
+There is a code running :
+		Compiler
+		Interpreter
+		assembler
+
+Editor:
+--------
+ {
+		vs code
+		Jupiter
+		PyCharm
+		anaconda
+}
+
+-----------------------------------------------------------------------------------
+next day-2:
+-----------
+	python features :
+		## Python is interpreter based language
+		## python is open source
+		## python is environment independent
+		## python is case sensitive
+		## python is easy language to read and write understand
+		## python is a supports oops (object oriented programming language)
+-------------------------------------------------------------------------------------
+
+	Python Application :
+		## 1991 by guido van russum
+		>> Desktop , mobile , web 
+		>> Data Science :
+			## Data engineering 
+			## Data mining (Extract)
+			## Data analysis
+			## Learning Algorithum
+		>> Machine learning
+		>> AI
+
+
+	python simple code : 
+		# print("Hii") #print() is a function. print is used for the output print on 		the display..
+
+
+# Python Data is Defining the more Informative like this 👇👇
+print("Addition Result 5 + 5 = ",5+5)
+print("Subraction Result 5 - 5 = ",5-5)
+print("Multiply Result 5 * 5 = ",5*5)
+print("Division Result 5 / 5 = ",5/5)
+
+# 4+5 this line off code is executed.. 
