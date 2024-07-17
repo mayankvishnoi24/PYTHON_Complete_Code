@@ -8,3 +8,8 @@ print("Multiply Result 5 * 5 = ",5*5)
 print("Division Result 5 / 5 = ",5/5)
 
 # 4+5 this line off code is executed.. 
+
+# \n : new line character it is default in python
+
+print("Hello",end='-')
+print("Ducat")
