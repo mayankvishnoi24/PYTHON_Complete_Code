@@ -8,4 +8,4 @@ print( "Addition",num1+num2)
 # Enter the Num2: 10  
 # Addition 1010  
 
-# Default in string 
+# Default in string You don't have assign the dataType like int , float, etc 
