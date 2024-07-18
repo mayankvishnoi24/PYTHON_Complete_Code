@@ -58,7 +58,9 @@ next day-2:
 
 
 	python simple code : 
-		# print("Hii") #print() is a function. print is used for the output print on 		the display..
+		# print("Hii") 
+		#print() is a function. 
+			**print is used for the output print on the display..
 
 
 # Python Data is Defining the more Informative like this 👇👇
