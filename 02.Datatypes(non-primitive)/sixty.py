@@ -24,3 +24,6 @@ print(dic)
 
 # dic = {'a':'apple','b':'ball'}
 # print(dic)
+
+dic.pop(False)              # pop() function is deleting the any key or element.
+print(dic)
