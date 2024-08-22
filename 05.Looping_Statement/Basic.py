@@ -10,14 +10,18 @@
 #     sum = sum+n
 
 # print("Sum is:",sum)
-i = 1
-n = 20
-while i<=3:
-    i = int(input("Guess the Number: "))
-    if i==n:
-        print("Congratulations ,Your No is Match" , i)
-        break
-    else:
-        print("Try Guessing Again ")
-else:
-    print("Your all attempts are failed")
+
+
+
+# i = 1
+# n = 20
+# while i<=3:
+#     i = int(input("Guess the Number: "))
+#     if i==n:
+#         print("Congratulations ,Your No is Match" , i)
+#         break
+#     else:
+#         print("Try Guessing Again ")
+# else:
+#     print("Your all attempts are failed")
+
