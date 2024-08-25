@@ -1,37 +1,39 @@
 # Assignment operator : (=,+=,-=,*=,/=,%=,**=,//=)      it is assigning to the variable of the operator.
 
+# Jis variable se data late hai usme vapas dalna hai to use karenge assignment operator
+
 i = 5
 j = i
 
-print(i,j)# 5 5
+print(i,j)          # 5 5
 
-i+=j
+i+=j   ## i = i + j
 
-print(i)# 10
+print(i)            # 10
 
-i-=j
+i-=j        ## i = i - j
 
-print(i)# 5
+print(i)            # 5
 
-i*=j
+i*=j        ## i = i * j
 
-print(i)# 25
+print(i)            # 25
 
-i/=j
+i/=j        ## i = i / j
 
-print(i)# 5.0
+print(i)            # 5.0
 
 i%=j
 
-print(i)# 0.0
+print(i)            # 0.0
 
 i**=j
 
-print(i)# 0.0
+print(i)            # 0.0
 
 i//=j
 
-print(i)# 0.0
+print(i)            # 0.0
 
 # ------------------------------------------------------------------------------------
 

@@ -1,11 +1,30 @@
-# Logical Operator : (AND,OR,NOT)
+# Logical Operator : (AND , OR , NOT) ## you can only use boolean 
+# Not use the logical operator number or string data
 
-# logical AND
-print(True and True)     # True
-print(True and False)    # False
+# logical AND       (Multiple operator)
 
-# logical OR
-print(True or False)     # True
+# print(True and False)     # False
+# print(True and True)     # True
+# print(False and False)    # False
+# print(False and True)     # False
+# i = 45
+# print(i >= 1 and i <=50)
 
-# logical NOT
-print(not True)          # False
+# ---------------------------------------
+# logical OR        (Addition operator)
+# print(True and False)     # True
+# print(True and True)     # True
+# print(False and False)    # False
+# print(False and True)     # True
+# i = 75
+# print(i >= 1 or i <=50)
+
+# # ----------------------------------------
+# # logical NOT ## Single boolean value
+# print(True and False)     # True
+# print(True and True)     # True
+# print(False and False)    # False
+# print(False and True)     # True
+
+# i = 75
+# print(not i >= 1 and i <=80)    ## False

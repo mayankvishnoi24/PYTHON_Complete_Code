@@ -2,11 +2,11 @@
 
 # Example : 
                 #  2        +       3
-                # Data # operator # Data
+                # Data # operators # Data
 
 # There are different type of operators :-
 
-        ## Arithmatic operator : (+,-,*,/,%(Modulus),**(Exponational),//(Floar division))
+        ## Arithmatic operator : (+(Addition),-(Subtraction),*(Multiplication),/(Division),%(Modulus),**(Exponational),//(Floar division))
         ## Assignment operator : (=,+=,-=,*=,/=,%=,**=,//=)
         ## Comparision operator : (<,>,<=,>=,==,!=)
         ## Logical Operator : (AND,OR,NOT)

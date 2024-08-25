@@ -1,4 +1,4 @@
-# Comparision operator : (<,>,<=,>=,==,!=) -- it is  showwing the only provide boolean
+# Comparision operator : (<,>,<=,>=,==,!=) -- it is the output showing only provided boolean like true / false
 
 # i = 5
 # j = 2
@@ -10,11 +10,7 @@
 # print(i==j)# false              (Equal too equal to)
 # print(i!=j)# true               (not equal to)
 
-
-
-
 a = 5
-
 b = 2
 
 # equal to operator

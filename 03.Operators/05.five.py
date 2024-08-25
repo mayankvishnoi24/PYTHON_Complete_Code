@@ -1,16 +1,21 @@
-# Membership Operator : (in,not in)
+# Membership Operator : (
+# in (kya ye data issme hai ya nhi)
+# not in  (in ka reverse operation) aagar hoga to false nhi to true
+# ** Working:(Iterables)--
+            ## string
+            ## list
+            ## tuple
+            ## set
+            ## frozenset
+            ## dict
+            ## range
+menu = {
+    'pizza' : 100,
+    'parger' : 60,
+    'pasta' : 40,
+    'chill patato' : 60,
+    'Chaominn' : 30,
+    };
 
-message = 'Hello world'
-dict1 = {1:'a', 2:'b'}
-
-# check if 'H' is present in message string
-print('H' in message)  # prints True
-
-# check if 'hello' is present in message string
-print('hello' not in message)  # prints True
-
-# check if '1' key is present in dict1
-print(1 in dict1)  # prints True
-
-# check if 'a' key is present in dict1
-print('a' in dict1)  # prints False
+print('chill patato' in menu)
+print(1 in menu)
