@@ -14,3 +14,11 @@
 # Total Marks = 240
 # Percentage = 80.00
 # Division = First
+
+rollNo = int(input("Input the Roll Number of the student: "))
+name = (input("Input the name of the student: "))
+
+Phy = int(input("Input the physics marks of the student: "))
+chem = int(input("Input the chemistry marks of the student: "))
+comp_appl = int(input("Input the computer application marks of the student: "))
+

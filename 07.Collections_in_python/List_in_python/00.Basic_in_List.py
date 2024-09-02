@@ -4,7 +4,7 @@
     # Set
     # Dict
 
-## List important Points:
+## List important Properties:
     # Collect any type (Primitive and non-primitive) of data
     # You can repete the data elements
     # list is indexed collection
