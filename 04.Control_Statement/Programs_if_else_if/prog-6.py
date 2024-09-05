@@ -7,3 +7,7 @@
 # <140   Dwarf
 # <140  >170 Average
 # >170    Tall
+
+
+height = float(input("enter the height: "))
+
