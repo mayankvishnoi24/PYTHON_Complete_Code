@@ -9,5 +9,11 @@
 # >170    Tall
 
 
-height = float(input("enter the height: "))
+h = float(input("enter the height: "))
 
+if h<=140:
+    print(h,"Naatu")
+elif h<=170:
+    print(h,"Average")
+else:
+    print(h,"tall")
