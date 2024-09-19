@@ -1,4 +1,4 @@
-# Variables is Python
+# Variables is Python: As a container to store the data
 
 i = 100
 j = 200
