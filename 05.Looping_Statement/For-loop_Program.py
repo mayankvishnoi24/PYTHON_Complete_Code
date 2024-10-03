@@ -127,6 +127,7 @@
 
 
 ## Series in the form of a list
+
 # s = 0
 # for i in [1, 3, 45, 6, 78, 3, 2]:
 #     s = s + i

@@ -1,4 +1,4 @@
 # string length
 
-s="python programming"
+s = "python programming"
 print(len(s))

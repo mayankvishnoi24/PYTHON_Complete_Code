@@ -1,6 +1,6 @@
-### String Slicing 
+### String Slicing
 
-s="python"
+s = "python"
 print(s[1:4:1])
 print(s[1:4])
 print(s[0:4])
