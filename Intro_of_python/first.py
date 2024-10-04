@@ -2,7 +2,7 @@
 
 
 # Python Data is Defining the more Informative like this 👇👇
-a=str("False");
+a=str("False")
 print(a)
 print("Addition Result 5 + 5 = ", 5 + 5)
 print("Subraction Result 5 - 5 = ", 5 - 5)
