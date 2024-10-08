@@ -47,7 +47,9 @@
 
 # 7.	Write a Python program to capitalize first and last letters of each word of a given string.
 # alpha = "helloworld"
-# print(alpha.capitalize())
+# print(alpha.upper().center(50))
+# print(alpha.lower().center(50))
+# print(alpha.upper().center(50))
 
 # 8.	Write a Python program to swap cases of a given string
 # swap = "Hello World"
@@ -64,11 +66,11 @@
 
 # 11.   find out the least and most frequent letter in a string.
 
-# 12.	find uncommon words from two string 
+# 12.	find uncommon words from two string
 # str1 = "Hello\n"
 # str2 = "World"
 # print(str1.isalnum(),str2.isalnum())
 
-# 13.	sort a string by lower to upper 
+# 13.	sort a string by lower to upper
 # str1 = "hello world"
 # print(str1.upper())
